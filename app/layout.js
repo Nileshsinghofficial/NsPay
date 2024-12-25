@@ -12,7 +12,7 @@ const poppins = Poppins({
 
 export const metadata = {
   title: {
-    default: 'ZsPay',
+    default: 'NsPay',
     template: '%s | NsPay',
   },
   description: 'An frictional currency powered and built by javascript.',
