@@ -1,6 +1,6 @@
 # NsPay Virtual Currency
 
-NsPay is a virtual currency system designed to facilitate secure and seamless digital transactions. Built with JavaScript, Next.js, MongoDB, Shadow-cljs, and Clerk authentication, ZenPay offers a modern and efficient platform for managing virtual currencies.
+NsPay is a virtual currency system designed to facilitate secure and seamless digital transactions. Built with JavaScript, Next.js, MongoDB, Shadow-cljs, and Clerk authentication, NsPay offers a modern and efficient platform for managing virtual currencies.
 (hobby project)
 
 # Preview
@@ -16,7 +16,7 @@ NsPay is a virtual currency system designed to facilitate secure and seamless di
 
 ## Getting Started
 
-Follow these steps to set up and run ZenPay on your local machine:
+Follow these steps to set up and run NsPay on your local machine:
 
 1. **Clone the Repository:**
    ```bash
@@ -36,7 +36,7 @@ Follow these steps to set up and run ZenPay on your local machine:
    npm run dev
    ```
 
-   Open your browser and navigate to `http://localhost:3000` to view ZenPay in action.
+   Open your browser and navigate to `http://localhost:3000` to view NsPay in action.
 
 ## Environment Variables
 Don't forgot to add .env for instance check .env.example
