@@ -44,7 +44,7 @@ Don't forgot to add .env for instance check .env.example
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to ZenPay, please follow our pages.
+We welcome contributions! If you'd like to contribute to NsPay, please follow our pages.
 
 ## License
 
