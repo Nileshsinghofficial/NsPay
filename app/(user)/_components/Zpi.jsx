@@ -12,7 +12,7 @@ export default function Zpi({ zpi, showshare = true }) {
             {showshare && (
                 <ModeToggle className="bg-transparent border-none"/>
             )}
-            {/* <Button size="icon" className="rounded-full" onClick={() => { navigator.share({ title: "ZenPay", url: "https://zenpay.vercel.app" }); }}><Share2 className="h-4 w-4" /></Button> */}
+            {/* <Button size="icon" className="rounded-full" onClick={() => { navigator.share({ title: "NsPay", url: "https://nspay.vercel.app" }); }}><Share2 className="h-4 w-4" /></Button> */}
         </div>
     )
 }

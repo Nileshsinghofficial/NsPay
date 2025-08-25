@@ -11,7 +11,8 @@ export default function Footer() {
                     <Logo />
                     <span title="All System Normal" className="bg-background hover:bg-secondary transition select-none cursor-pointer flex items-center justify-center gap-1 text-xs rounded-full py-1 px-2 border">Normal<Computer className="h-3 w-3" /></span>
                 </div>
-                <p className="text-xs md:text-sm">Built using nextjs by <Link href="" className="hover:text-primary hover:underline">Nilesh Singh &amp; Ankita Mishra</Link><span className="text-primary">.</span></p>
+                <p className="text-xs md:text-sm">Built using nextjs by <Link href="" className="hover:text-primary hover:underline">Nilesh Singh</Link><span className="text-primary">.</span></p>
+                {/* &amp; Ankita Mishra */}
             </div>
             <ul className="grid">
                 {/* <li className="-mb-1"><Link className="text-sm hover:underline hover:text-primary" href="">Hire Me</Link></li> */}
